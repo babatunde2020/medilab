@@ -1,0 +1,131 @@
+.btn-apt {
+    background-color: #1977cc; ;
+    border-radius: 20px;
+    color: white;
+    padding: 5px 10px;
+    outline: none;
+    border: 0;
+}
+.apt{
+    color: #1977cc;
+}
+
+.hero-bg {
+    background-image: url('img/hero-bg.jpg'); 
+    height: 90vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: -100px;
+}
+.about-bg {
+    background-image: url('img/about.jpg'); 
+    height: 90vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.hero-bg h1 {
+    color: darkblue;
+    padding-top: 100px;
+}
+.hero-bg h3 {
+    color: darkblue;
+    padding-top: 10px;
+    font-weight: 300;
+}
+.why {
+    color: white;
+    background-color: #1977cc;
+    margin-top: -100px;
+    border: 0;
+}
+#learnMore {
+    background-color: #3291e6;;
+    border-radius: 15px;
+    padding: 5px 10px;
+    outline: none;
+    border: 0;
+}
+.home {
+    margin-top: -50px;
+    border: 0;
+}
+.img1{
+    background-color: white;
+    margin-top: 80px;
+    background-size: cover;
+}
+.btn1{
+    border-radius: 55px;
+    float: left;
+}
+.btn2{
+    background-color: #1977cc;
+
+}
+.fluidc{
+    background-color:rgb(230, 238, 255) ;
+    padding: 30px;
+    text-align: center;
+}
+.flex1{
+    background-color: white;
+    padding: 20px;
+    /* width: 270px; */
+    width:100%;
+    text-align: center;
+}
+.fa1{
+    color: #1977cc;
+    /* margin-top: -400px; */
+}
+.numb1{
+    font-weight: 500;
+}
+.con1{
+    text-align: center;
+}
+.h21{
+    color: #1977cc;
+}
+.but1{
+    text-align: center;
+}
+.start1{
+    float: left;
+}
+.end1{
+    float: right;
+}
+.col5{
+    padding: 100px;
+    width: 500px;
+}
+.coro{
+    border-radius: 20px;
+    width: 22px;
+    height: 112px;
+    background-color: #1977cc;
+}
+.send{
+    padding: 5px 10px;
+    color: white;
+    background-color: #1977cc;
+    border-radius: 25px;
+    outline: none;
+    border: 0;
+}
+.lis{
+    color: black;
+}
+
+@media only screen and (min-width:650px) {
+    .flex1{
+        width: 200px;
+    }
+    .but1{
+        width: 300px;
+    }
+}
